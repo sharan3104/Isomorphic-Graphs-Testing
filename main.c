@@ -1,9 +1,3 @@
-/*
-TEAM 9
-SHARAN NARAYAN ADDALA - 2021A7PS0335H
-SUMAN SEKHAR SAHOO - 2021A7PS2605H
-*/
-
 #include <stdio.h>
 #include<stdlib.h>
 
